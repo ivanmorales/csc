@@ -1,7 +1,7 @@
 'use strict';
 console.log(process.env.NODE_ENV);
 module.exports = {
-	db: 'mongodb://localhost/slayer-dev',
+	db: 'mongodb://heroku_app30726496:m76ojs0n9fr6r6pg413itspo14@ds063919.mongolab.com:63919/heroku_app30726496',
 	app: {
 		title: 'Slayer - Development Environment'
 	},
